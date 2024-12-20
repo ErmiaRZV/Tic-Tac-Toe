@@ -1,3 +1,3 @@
 # XO-demo
 
-- [Demo Project](https://ermiarzv.github.io/Tagmag/)
+- [Demo Project](https://ermiarzv.github.io/XO-demo/)

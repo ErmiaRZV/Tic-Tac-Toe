@@ -1,7 +1,8 @@
 # Tic-Tac-Toe
 
 
-- [Demo Project](https://ermiarzv.github.io/XO-demo/)
+- [Demo Project](https://ermiarzv.github.io/Tic-Tac-Toe/
+)
 - - Developed by Ermia Razavi
 - Created - December 2024
 - 🤖 Technologies Used - Html , css(Tailwind) ,JavaScript

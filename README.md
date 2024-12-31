@@ -3,7 +3,7 @@
 
 - [Demo Project](https://ermiarzv.github.io/Tic-Tac-Toe/
 )
-- - Developed by Ermia Razavi
+- Developed by Ermia Razavi
 - Created - December 2024
 - 🤖 Technologies Used - Html , Tailwind css ,JavaScript
 - How to reach me : with my
